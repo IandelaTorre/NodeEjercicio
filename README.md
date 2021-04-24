@@ -23,4 +23,4 @@
 2. Abres tu navegador de confianza y colocas "localhost:4500" en la barra de busqueda ![web](img/img8.png)
 
 Y eso seria tu Hola Mundo con Node.  
-PD recuerda que para se deje de ejecutar tu programa tienes que colocar "^C"
+PD recuerda que para se deje de ejecutar tu programa tienes que apretar las teclas _ctrl_ + _c_
